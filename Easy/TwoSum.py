@@ -5,3 +5,6 @@ class Solution(object):
             if target - num in paired_index:
                 return [i, paired_index[target-num]]
             paired_index[num] = i
+
+#QED
+#Solution 1 - Jason Balayev
