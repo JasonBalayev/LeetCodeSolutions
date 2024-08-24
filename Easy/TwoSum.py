@@ -8,4 +8,4 @@ class Solution(object):
 
 
 #QED
-#Solution 1 - Jason Balayev
+#Solution 1 - Jason Balayev (python)
