@@ -15,4 +15,4 @@ class Solution {
 }
 
 //QED
-//Solution 1 - Jason Balayev (java)
+//Problem 1 (Two Sum) - Jason Balayev (java)

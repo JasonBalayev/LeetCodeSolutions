@@ -6,6 +6,5 @@ class Solution(object):
                 return [i, paired_index[target-num]]
             paired_index[num] = i
 
-
 #QED
-#Solution 1 - Jason Balayev (python)
+#Problem 1 (Two Sum) - Jason Balayev (python)
