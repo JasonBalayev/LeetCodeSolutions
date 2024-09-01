@@ -16,4 +16,4 @@ The solutions are organized into different folders based on problem categories o
 - **Medium**: Intermediate problems that require deeper understanding and problem-solving skills.
 - **Hard**: Challenging problems that involve complex logic and algorithms.
 
-## <span style="font-size: 24px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;">Progress: 4/3269 Completed</span>
+## <span style="font-size: 24px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;">Progress: 5/3269 Completed</span>
