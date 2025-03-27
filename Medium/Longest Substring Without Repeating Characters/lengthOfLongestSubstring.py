@@ -1,3 +1,0 @@
-class solution(){
-    def lengthOfLongest
-}
