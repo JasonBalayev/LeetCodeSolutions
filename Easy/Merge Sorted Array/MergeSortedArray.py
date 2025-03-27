@@ -24,4 +24,4 @@ class Solution:
             last_merged -= 1
 
 #QED
-#Problem 88 (Merge Sorted Array) - Jason Balayev (python)   
+#Problem 88 (Merge Sorted Array) - Jason Balayev (python3)   
