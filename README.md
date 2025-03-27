@@ -21,4 +21,4 @@ The solutions are organized into different folders based on problem categories o
 - **Easy Complete**: 4/823
 - **Medium Complete**: 1/1714  
 - **Hard Complete**: 1/740  
-- **Total Complete**: 6/3277
+- **Total Complete**: 7/3277
