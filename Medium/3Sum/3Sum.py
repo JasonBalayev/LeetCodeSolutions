@@ -33,6 +33,5 @@ class Solution(object):
                     left += 1
                     right -= 1
         return res
-
 #QED
 #Problem 15 (Medium Of 3Sum) - Jason Balayev (python)
