@@ -13,4 +13,4 @@ class Solution(object):
         return x == reverse or x == reverse // 10
     
 #QED
-#Problem 9 (Palindrome Number) - Jason Balayev (python)   
+#Problem 9 (Easy OfPalindrome Number) - Jason Balayev (python)   
