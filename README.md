@@ -19,6 +19,6 @@ The solutions are organized into different folders based on problem categories o
 ## Progress Overview
 
 - **Easy Complete**: 31/823
-- **Medium Complete**: 11/1714  
+- **Medium Complete**: 12/1714  
 - **Hard Complete**: 4/740  
-- **Total Complete**: 46/3277
+- **Total Complete**: 47/3277
