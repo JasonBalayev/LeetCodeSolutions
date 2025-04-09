@@ -18,4 +18,4 @@ public:
 };
 
 //QED
-//Problem 3396 (Easy of Minimum Number of Operations to Make Elements in Array Distinct) - Jason Balayev (python)
+//Problem 3396 (Easy of Minimum Number of Operations to Make Elements in Array Distinct) - Jason Balayev (cpp)
