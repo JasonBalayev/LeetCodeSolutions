@@ -8,4 +8,4 @@ class Solution:
         return remainder
     
 #QED
-#Problem 2878 (Easy of Minimum Operations to Make Array Sum Divisible by K) - Jason Balayev (python)
+#Problem 3512 (Easy of Minimum Operations to Make Array Sum Divisible by K) - Jason Balayev (python)
