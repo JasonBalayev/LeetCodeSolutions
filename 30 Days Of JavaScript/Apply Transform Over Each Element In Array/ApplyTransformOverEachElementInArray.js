@@ -12,4 +12,4 @@ var map = function(arr, fn) {
 };
 
 //QED
-//Problem 2635 (Easy Of Apply Transform Over Each Element In Array) - Jason Balayev (javascript)
+//Problem 2635 (Easy Of Apply Transform Over Each Element In Array) - Jason Balayev (javascript) 
