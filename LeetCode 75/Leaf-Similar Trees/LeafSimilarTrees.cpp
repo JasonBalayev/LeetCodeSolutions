@@ -16,7 +16,7 @@ public:
         vector<int> leaves2;
         getLeaves(root1,leaves1);
         getLeaves(root2,leaves2);
-        return leaves1==leaves2;
+        return leaves1==leaves
     }
     void getLeaves(TreeNode* root, vector<int>& leaves){
         if(!root) return;
