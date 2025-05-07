@@ -25,4 +25,4 @@ The solutions are organized into different folders based on problem categories o
 
 ## Rank
 
-786,977 worldwide with an acceptance rate of 78.23%
+728,939 worldwide with an acceptance rate of 78.23%
