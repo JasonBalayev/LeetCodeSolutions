@@ -25,3 +25,4 @@
 
 //QED
 //Problem 374 (Easy of Guess Number Higher Or Lower) - Jason Balayev (rust)
+
