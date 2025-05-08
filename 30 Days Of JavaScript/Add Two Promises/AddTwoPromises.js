@@ -16,3 +16,4 @@ var addTwoPromises = async function(promise1, promise2) {
 
 //QED
 //Problem 2723 (Easy Add Two Promises) - Jason Balayev (javascript)
+
