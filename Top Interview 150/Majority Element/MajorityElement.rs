@@ -13,4 +13,4 @@ impl Solution {
 }
 
 //QED
-//Problem 169 (Easy) - Majority Element - Jason Balayev (Rust)
+//Problem 169 (Easy of Majority Element - Jason Balayev (rust)
