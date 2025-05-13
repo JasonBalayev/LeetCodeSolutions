@@ -22,4 +22,4 @@ impl Solution {
 }
 
 //QED
-//Problem 3335 (Medium ofTotal Characters In String After Transformations I) - Jason Balayev (rust)
+//Problem 3335 (Medium of Total Characters In String After Transformations I) - Jason Balayev (rust)
