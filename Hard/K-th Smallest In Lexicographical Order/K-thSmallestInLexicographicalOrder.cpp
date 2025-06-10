@@ -30,3 +30,6 @@ private:
         return cnt;
     }
 };
+
+//QED
+//Problem 440 (Hard of K-th Smallest In Lexicographical Order) - Jason Balayev (cpp)
