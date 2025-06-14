@@ -18,11 +18,11 @@ The solutions are organized into different folders based on problem categories o
 
 ## Progress Overview
 
-- **Easy Complete**: 130/880
-- **Medium Complete**: 78/1858  
+- **Easy Complete**: 132/880
+- **Medium Complete**: 81/1858  
 - **Hard Complete**: 24/842
-- **Total Complete**: 232/3580
+- **Total Complete**: 237/3580
 
 ## Rank
 
-515,685 worldwide with an acceptance rate of 79.93%
+502,576 worldwide with an acceptance rate of 80.54%
