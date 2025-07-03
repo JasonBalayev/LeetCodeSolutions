@@ -40,4 +40,4 @@ class Solution:
         return ans
 
 #QED
-#Problem 3333 (Hard of Find The Original Typed String II) - Jason Balayev (cpp)
+#Problem 3333 (Hard of Find The Original Typed String II) - Jason Balayev (python)
