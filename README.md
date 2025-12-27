@@ -1,9 +1,8 @@
-Easy: 149/918
+# Stats 
 
-Medium: 99/1974 
+**Easy:** 149/918  
+**Medium:** 99/1,974  
+**Hard:** 31/895  
+**Total:** 279/3,787
 
-Hard: 31/895
-
-Total: 279/3787
-  
-479,869 worldwide with an acceptance rate of 82.91
+Rank: 479,869 | Acceptance Rate: 82.91%
