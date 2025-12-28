@@ -1,28 +1,8 @@
-# LeetCode Progress
+# Stats 
 
-Welcome to my LeetCode repository! This repository contains my solutions and progress on various LeetCode problems. I use this space to practice my problem-solving skills and keep track of my improvement over time.
+**Easy:** 149/918  
+**Medium:** 99/1,974  
+**Hard:** 31/895  
+**Total:** 279/3,787
 
-## About
-
-- This repository is a collection of my solutions to LeetCode problems.
-- I try to solve a variety of problems, including different difficulty levels and topics.
-- Feel free to explore the solutions and see my approach to each problem.
-
-## Structure
-
-The solutions are organized into different folders based on problem categories or difficulty levels:
-
-- **Easy**: Beginner-friendly problems that focus on basic concepts.
-- **Medium**: Intermediate problems that require deeper understanding and problem-solving skills.
-- **Hard**: Challenging problems that involve complex logic and algorithms
-
-## Progress Overview
-
-- **Easy Complete**: 149/918
-- **Medium Complete**: 94/1974 
-- **Hard Complete**: 30/895
-- **Total Complete**: 273/3787
-
-## Rank
-
-479,869 worldwide with an acceptance rate of 82.35%
+Rank: 479,869 | Acceptance Rate: 82.91%
