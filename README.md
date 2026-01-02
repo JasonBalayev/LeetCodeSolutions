@@ -1,8 +1,8 @@
 # Stats 
 
-**Easy:** 149/918  
-**Medium:** 99/1,974  
-**Hard:** 31/895  
-**Total:** 279/3,787
+**Easy:** 152/918  
+**Medium:** 102/1,978  
+**Hard:** 31/896  
+**Total:** 285/3,792
 
-Rank: 479,869 | Acceptance Rate: 82.91%
+Rank: 454,822 | Acceptance Rate: 82.86%
