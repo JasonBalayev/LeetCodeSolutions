@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT 
     p.firstName, 
     p.lastName, 
@@ -9,5 +9,5 @@ FROM
 LEFT JOIN 
     Address a ON p.personId = a.personId;
 
-#QED
-#Problem 175 (Easy Of Combine Two Tables) - Jason Balayev (MySQL)
+--QED
+--Problem 175 (Easy Of Combine Two Tables) - Jason Balayev (MySQL)
