@@ -14,3 +14,4 @@ class Solution:
 
 #QED
 #Problem 2943 (Medium of Maximize Area Of Square Hole In Grid) - Jason Balayev (python)
+
