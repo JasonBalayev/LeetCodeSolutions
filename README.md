@@ -6,5 +6,3 @@
 **Total:** 300/3,808
 
 Rank: 425,748 | Acceptance Rate: 84.41%
-
-test
